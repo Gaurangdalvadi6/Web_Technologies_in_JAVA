@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="advance_java_assignment">
+        <property name="context-root" value="advance_java_assignment"/>
+        <property name="java-output-path" value="/advance_java_assignment/build/classes"/>
+    </wb-module>
+</project-modules>
